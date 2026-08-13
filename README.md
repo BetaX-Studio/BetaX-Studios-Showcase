@@ -37,6 +37,6 @@ Welcome to the official showcase repository for **BetaX Studios** custom Paper/S
 
 For purchasing licenses, requesting custom plugin development, or server integrations:
 
-- **Discord:** `BetaX Studios`
-- **Network / Website:** `betastudios.fun`
+- **Discord:** `[https://discord.gg/QZMdjt3uw8`
+- **Network / Website:** `https://betaxstudio.lovable.app/`
 - **Marketplace:** BuiltByBit / SpigotMC
