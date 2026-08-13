@@ -13,7 +13,7 @@ Welcome to the official showcase repository for **BetaX Studios** custom Paper/S
 - **API Target:** Paper API (26.2+) | Java 21+
 - **Integrations:** Vault, MySQL, MiniMessage
 - **Description:** A modular, high-performance auction house with dual-storage fallback, multi-file configuration, and custom GUI listeners.
-- **Preview:** [View Configuration Documentation](./BxAuction/)
+- **Preview:** [View Configuration Documentation](https://betaxstudio.lovable.app/)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to the official showcase repository for **BetaX Studios** custom Paper/S
 - **API Target:** Paper API | Java 21+
 - **Integrations:** SQLite, MySQL, PlaceholderAPI
 - **Description:** Advanced player bounty system featuring real-time data persistence, administrative GUI controls, and configurable event payouts.
-- **Preview:** [View Configuration Documentation](./BetaXBounty/)
+- **Preview:** [View Configuration Documentation](https://betaxstudio.lovable.app/plugins/bxbounty)
 
 ---
 
